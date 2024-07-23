@@ -1382,6 +1382,7 @@
   nationality: pe
   linkedin: "https://www.linkedin.com/in/grace-sevillano/"
   website: "https://gracesevillano.github.io/"
+  github: "https://github.com/GraceSevillano"
   bio: >
     is currently pursuing a Master's degree in Signal and Image Processing with a specialization in Computer Vision and Robotics (VIBOT) at the University of Burgundy, France. She earned her B.Sc. in Electronics Engineering from the National University of Engineering (UNI), Peru. She is conducting her Master's thesis at the CNRS-AIST JRL (Joint Robotics Laboratory), IRL3218 in Tsukuba, Japan. Her research focuses on combining dual-fisheye and color-depth vision for real-time, full-scale spherical image depth imaging, covering areas such as 3D imaging and robotics.
 - id: soucail
